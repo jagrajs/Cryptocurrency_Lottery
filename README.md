@@ -17,11 +17,11 @@ Bitcoin support coming soon, maybe.
 >
 >&darr;
 >
->Generate public address from private key.
+>Generate wallet address from private key.
 >
 >&darr;
 >
->Use public address to check balance on blockchain API.
+>Use wallet address to check balance on blockchain API.
 >
 >&darr;
 >
