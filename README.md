@@ -9,20 +9,20 @@ Bitcoin support coming soon, maybe.
 
 ## Overview
 
-Input text.
-
-&darr;
-
-Generate private key from sha256(input text).
-
-&darr;
-
-Generate public address from private key.
-
-&darr;
-
-Use public address to check balance on blockchain API.
-
-&darr;
-
-If balance is 0, you lose. If balance is nonzero, you win!
+>Input text.
+>
+>&darr;
+>
+>Generate private key from sha256(input text).
+>
+>&darr;
+>
+>Generate public address from private key.
+>
+>&darr;
+>
+>Use public address to check balance on blockchain API.
+>
+>&darr;
+>
+>If balance is 0, you lose. If balance is nonzero, you win!
