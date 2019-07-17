@@ -17,6 +17,10 @@ Bitcoin support coming soon, maybe.
 >
 >&darr;
 >
+> Generate public key from private key
+>
+>&darr;
+>
 >Generate wallet address from private key.
 >
 >&darr;
