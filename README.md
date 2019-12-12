@@ -30,6 +30,6 @@
 >
 >If balance is 0, you lose. If balance is nonzero, you win!
 
-
+---
 
 Bitcoin support coming soon, maybe.
