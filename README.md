@@ -2,7 +2,7 @@
 
 [View on Jupyter nbviewer](https://nbviewer.jupyter.org/github/jagrajs/Cryptocurrency-Lottery/blob/master/Cryptocurrency_Lottery.ipynb)
 
-[Play the free Ethereum Lottery!](https://colab.research.google.com/github/jagrajs/Cryptocurrency_Lottery/blob/master/Cryptocurrency_Lottery.ipynb)
+[Play the Ethereum Lottery!](https://colab.research.google.com/github/jagrajs/Cryptocurrency_Lottery/blob/master/Cryptocurrency_Lottery.ipynb)
 
 *There's a nonzero chance you'll win!*
 
@@ -31,5 +31,7 @@
 >&darr;
 >
 >If balance is 0, you lose. If balance is nonzero, you win!
+
+
 
 Bitcoin support coming soon, maybe.
