@@ -2,7 +2,7 @@
 
 [Play the Ethereum Lottery on Google Colab!](https://colab.research.google.com/drive/1eEcHPSGo5bJJohzPHuLtKdRTBgVLo0ur)
 
-[View on Jupyter nbviewer](https://nbviewer.jupyter.org/github/jagrajs/Cryptocurrency-Lottery/blob/master/Cryptocurrency_Lottery.ipynb)
+[View on Jupyter nbviewer.](https://nbviewer.jupyter.org/github/jagrajs/Cryptocurrency-Lottery/blob/master/Cryptocurrency_Lottery.ipynb)
 
 ---
 
