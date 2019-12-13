@@ -12,7 +12,7 @@
 >
 >&darr;
 >
->Generate private key from sha256(input text).
+>Generate private key by applying the SHA256 hash algorithm on the input text.
 >
 >&darr;
 >
