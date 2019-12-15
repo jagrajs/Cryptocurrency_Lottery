@@ -1,3 +1,4 @@
+
 #!pip3 install ast
 #!pip3 install codecs
 #!pip3 install ecdsa
@@ -103,5 +104,5 @@ def play():
             print('Thanks for playing!')
             break
 
-# Play the Ethereum Lottery
-play()
+if __name__ == '__main__':
+	play()
