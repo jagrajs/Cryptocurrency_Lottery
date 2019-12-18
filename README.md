@@ -36,7 +36,7 @@ A text based lottery game demonstrating the security of cryptocurrency private k
 
 Bitcoin support coming soon, maybe.
 
-## Resources
+### Resources
 
 [SHA-2](https://en.wikipedia.org/wiki/SHA-2)
 
