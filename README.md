@@ -8,29 +8,7 @@ A text based lottery game demonstrating the security of cryptocurrency private k
 
 ---
 
-## Overview
-
->Input text.
->
->&darr;
->
->Generate private key by applying the SHA256 hash algorithm on the input text.
->
->&darr;
->
-> Generate public key from private key
->
->&darr;
->
->Generate wallet address from private key.
->
->&darr;
->
->Use wallet address to check balance on blockchain API.
->
->&darr;
->
->If balance is 0, you lose. If balance is nonzero, you win!
+![example](https://raw.githubusercontent.com/jagrajs/cryptocurrency-lottery/master/example.gif)
 
 ---
 
