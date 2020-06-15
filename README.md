@@ -2,7 +2,7 @@
 
 A text based lottery game demonstrating the security of cryptocurrency private keys.
 
-[Play the Cryptocurrency Lottery here! EtherScan API key and Google account required.](https://colab.research.google.com/drive/1eEcHPSGo5bJJohzPHuLtKdRTBgVLo0ur?usp=sharing)
+[Play the Cryptocurrency Lottery here!](https://colab.research.google.com/drive/1eEcHPSGo5bJJohzPHuLtKdRTBgVLo0ur?usp=sharing) EtherScan API key and Google account required.]
 
 [View notebook here.](https://github.com/jagrajs/cryptocurrency-lottery/blob/master/Cryptocurrency_Lottery.ipynb)
 
