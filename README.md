@@ -2,9 +2,9 @@
 
 A text based lottery game demonstrating the security of cryptocurrency private keys.
 
-[Play the Ethereum Lottery on Google Colab!](https://colab.research.google.com/drive/1eEcHPSGo5bJJohzPHuLtKdRTBgVLo0ur)
+[Play the Cryptocurrency Lottery here! EtherScan API key and Google account required.](https://colab.research.google.com/drive/1eEcHPSGo5bJJohzPHuLtKdRTBgVLo0ur?usp=sharing)
 
-[View code on Jupyter nbviewer.](https://nbviewer.jupyter.org/github/jagrajs/Cryptocurrency-Lottery/blob/master/Cryptocurrency_Lottery.ipynb)
+[View notebook here.](https://github.com/jagrajs/cryptocurrency-lottery/blob/master/Cryptocurrency_Lottery.ipynb)
 
 ---
 
